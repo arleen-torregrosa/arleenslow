@@ -10,8 +10,8 @@ approaches.
 
 #### Portfolio Organization
 My projects are organized into two main branches:
-- **42_barcelona**: Projects completed during my studies in C/C++ programming at 42 school.
 - **Data Analysis**: Each folder represents an individual data analysis project.
+- **42_barcelona**: Projects completed during my studies in C/C++ programming at 42 school.
 
 #### Featured Projects
 1. **Music Streaming Data Analysis**: Analysis of four years of streaming data across various platforms and devices.
@@ -34,8 +34,8 @@ Mi pasión por la investigación y la tecnología me ha llevado a especializarme
 
 #### Organización del Portafolio
 Mis proyectos están organizados en dos ramas principales:
-- **42_barcelona**: Proyectos realizados durante mis estudios de programación en C/C++ en la escuela 42.
 - **Análisis de Datos**: Cada carpeta representa un proyecto individual.
+- **42_barcelona**: Proyectos realizados durante mis estudios de programación en C/C++ en la escuela 42.
 
 #### Proyectos Destacados
 1. **Music Streaming Data Analysis**: Análisis de cuatro años de datos de streaming, abarcando varias plataformas y dispositivos.
