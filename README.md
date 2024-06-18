@@ -1,4 +1,5 @@
-### English
+### Hi there 👋!!! 
+(Espanish below)
 
 Welcome to my GitHub. If you have arrived here, it's because you're interested in my work as a data analyst and/or in C programming.
 
@@ -9,7 +10,7 @@ approaches.
 
 #### Portfolio Organization
 My projects are organized into two main branches:
-- **Programming**: Projects completed during my studies at 42 school.
+- **42_barcelona**: Projects completed during my studies in C/C++ programming at 42 school.
 - **Data Analysis**: Each folder represents an individual data analysis project.
 
 #### Featured Projects
@@ -33,7 +34,7 @@ Mi pasión por la investigación y la tecnología me ha llevado a especializarme
 
 #### Organización del Portafolio
 Mis proyectos están organizados en dos ramas principales:
-- **42_BARCELONA**: Proyectos realizados durante mis estudios de programación en la escuela 42.
+- **42_barcelona**: Proyectos realizados durante mis estudios de programación en C/C++ en la escuela 42.
 - **Análisis de Datos**: Cada carpeta representa un proyecto individual.
 
 #### Proyectos Destacados
