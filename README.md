@@ -5,7 +5,7 @@ Welcome to my GitHub. If you have arrived here, it's because you're interested i
 
 #### About Me
 My passion for research and technology has led me to specialize in data analysis. I am a junior data analyst with a background in the cultural sector,
-specifically musicology. I have developed a unique perspective that combines creativity and analytical rigor, allowing me to approach problems from multiple
+specifically musicology. I have developed a unique perspective that combines creativity and analytical rigor, allowing me to solve problems from multiple
 approaches.
 
 #### Portfolio Organization
