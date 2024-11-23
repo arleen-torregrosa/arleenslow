@@ -1,12 +1,9 @@
 ### Hi there 👋!!! 
-(Espanish below)
-
-Welcome to my GitHub. If you have arrived here, it's because you're interested in my work as a data analyst and/or in C programming.
+(Spanish below)
 
 #### About Me
-My passion for research and technology has led me to specialize in data analysis. I am a junior data analyst with a background in the cultural sector,
-specifically musicology. I have developed a unique perspective that combines creativity and analytical rigor, allowing me to solve problems from multiple
-approaches.
+Developer with experience in data analysis, programming, and software development. My passion for technology and innovation has led me to specialize in leveraging programming languages and advanced tools to create efficient solutions and optimize processes. I stand out for my attention to detail and my ability to evaluate and improve complex technological systems.
+
 
 #### Portfolio Organization
 My projects are organized into two main branches:
