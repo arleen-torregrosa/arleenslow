@@ -2,7 +2,7 @@
 (Spanish below)
 
 #### About Me
-Developer with experience in data analysis, programming, and software development. My passion for technology and innovation has led me to specialize in leveraging programming languages and advanced tools to create efficient solutions and optimize processes. I stand out for my attention to detail and my ability to evaluate and improve complex technological systems.
+Developer with experience in data analysis and software development. My passion for technology and innovation has led me to specialize in leveraging programming languages and advanced tools to create efficient solutions and optimize processes. I stand out for my attention to detail and my ability to evaluate and improve complex technological systems.
 
 
 #### Portfolio Organization
